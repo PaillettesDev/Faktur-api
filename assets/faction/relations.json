@@ -1,0 +1,38 @@
+[
+    {
+        "faction_name": "BlackOld",
+        "faction_logo": "https://cdn.discordapp.com/banners/380778351658401803/a_cb41f57623b52c035415fdc46b1e2285.gif?size=300",
+        "faction_rank": "truce+",
+        "color": "#fb2f6d",
+        "faction_member": 30,
+        "faction_leader": ["Eclair93"],
+        "faction_discord": "https://discord.gg/fbfRQx7VQ2"
+    },
+    {
+        "faction_name": "BlackOld",
+        "faction_logo": "https://cdn.discordapp.com/banners/380778351658401803/a_cb41f57623b52c035415fdc46b1e2285.gif?size=300",
+        "faction_rank": "truce+",
+        "color": "#fb2f6d",
+        "faction_member": 30,
+        "faction_leader": ["Eclair93"],
+        "faction_discord": "https://discord.gg/fbfRQx7VQ2"
+    },
+    {
+        "faction_name": "BlackOld",
+        "faction_logo": "https://cdn.discordapp.com/banners/380778351658401803/a_cb41f57623b52c035415fdc46b1e2285.gif?size=300",
+        "faction_rank": "truce+",
+        "color": "#fb2f6d",
+        "faction_member": 30,
+        "faction_leader": ["Eclair93"],
+        "faction_discord": "https://discord.gg/fbfRQx7VQ2"
+    },
+    {
+        "faction_name": "BlackOld",
+        "faction_logo": "https://cdn.discordapp.com/banners/380778351658401803/a_cb41f57623b52c035415fdc46b1e2285.gif?size=100",
+        "faction_rank": "truce+",
+        "color": "#fb2f6d",
+        "faction_member": 30,
+        "faction_leader": ["Eclair93"],
+        "faction_discord": "https://discord.gg/fbfRQx7VQ2"
+    }
+]

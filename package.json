@@ -1,0 +1,25 @@
+{
+  "name": "faktur-api",
+  "version": "1.0.0",
+  "description": "Api of faktur who connect discord/member to website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PaillettesDev/Faktur-api.git"
+  },
+  "author": "Paillettes_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaillettesDev/Faktur-api/issues"
+  },
+  "homepage": "https://github.com/PaillettesDev/Faktur-api#readme",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security"
+  }
+}
