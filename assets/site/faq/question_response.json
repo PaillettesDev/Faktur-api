@@ -1,0 +1,23 @@
+[
+    {
+        "question": "Combien de temps avant la réponse de ma candidature ?",
+        "response": "Le traitement de voir candidature se fait généralement sous les 48heures après l'envoie de celle-ci. Au-delà de ce délai vous êtes autorisé à contactez une recruteur.",
+        "category": [
+            "Recrutement"
+        ]
+    },
+    {
+        "question": "Quel est le mot secret caché dans la préambule du questionnaire ?",
+        "response": "Si vous vous posez cette question c'est tout simplement que vous n'avais pas bien lu la présentation du questionnaire, nous vous invitons donc à aller lire.",
+        "category": [
+            "Recrutement"
+        ]
+    },
+    {
+        "question": "Depuis combien de temps la faction éxiste ?",
+        "response": "La FakTuR a été créer à la v4 de Paladium. Depuis elle a changer plusieurs fois de chef, et maintient sa notoriétée et son activitée.",
+        "category": [
+            "Faction"
+        ]
+    }
+]
