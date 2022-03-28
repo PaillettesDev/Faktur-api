@@ -9,7 +9,8 @@ const cors = require('cors')
 
 /* Routes */
 const Faction = require('./api/public/faction.js')
-const Faq= require('./api/public/faq.js')
+const Faq = require('./api/public/faq.js')
+const Images = require('./api/public/image.js')
 
 /* Init */
 app.use(cors());
@@ -18,6 +19,7 @@ app.use(bodyParser.json())
 /* API */
 app.use('/faction', Faction)
 app.use('/faq', Faq)
+app.use('/images', Images)
 
 /** Init listeners */
 const port = process.env.API_PORT;

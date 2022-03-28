@@ -1,0 +1,17 @@
+[
+    {
+        "category_name":"Recrutements",
+        "category_description":"Decouvrez les questions les plus posées sur le processus de recrutement !",
+        "category_image":"http://192.168.88.239:82/images/skin/Samxvdhn_matin.png"
+    },
+    {
+        "category_name":"Faction",
+        "category_description":"Ici ce trouve les questions les plus posées concernant notre faction en générale !",
+        "category_image":"http://192.168.88.239:82/images/skin/Paillettes_matin.png"
+    },
+    {
+        "category_name":"Shop",
+        "category_description":"Voici les questions les plus posées concernant notre shop !",
+        "category_image":"http://192.168.88.239:82/images/skin/Kuraaah_matin.png"
+    }
+]

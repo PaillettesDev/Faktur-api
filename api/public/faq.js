@@ -13,6 +13,14 @@ app.get('/qr', (req, res) => {
     res.status(404)
 })
 
+app.get('/categoryinfo', (req, res) => {
+    const category_info = JSON.parse(fs.readFileSync("assets/site/faq/category_info.json"))
+
+    res.send(category_info)
+
+    res.status(404)
+})
+
 app.post('/addquestion', (req, res) =>{
     var request_question = JSON.parse(fs.readFileSync("assets/site/faq/request_add_question.json"))
 
