@@ -11,6 +11,7 @@ const cors = require('cors')
 const Faction = require('./api/public/faction.js')
 const Faq = require('./api/public/faq.js')
 const Images = require('./api/public/image.js')
+const Achievements = require('./api/public/achievements.js')
 
 /* Init */
 app.use(cors());
@@ -20,6 +21,7 @@ app.use(bodyParser.json())
 app.use('/faction', Faction)
 app.use('/faq', Faq)
 app.use('/images', Images)
+app.use('/achievements', Achievements)
 
 /** Init listeners */
 const port = process.env.API_PORT;

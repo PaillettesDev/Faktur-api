@@ -1,0 +1,20 @@
+[
+    {
+        "category_name":"v7",
+        "category_image":"https://cdn.discordapp.com/attachments/356392576787415040/834099569956225052/Slide_16_9_-_8farmlanddark.png",
+        "category_description":"Cette saison était une saison de pose et de renouvellement pour la FakTuR, et comme on a pu le voir lors de la v7.5, la FakTuR est revenu bien plus fort qu'en v7.",
+        "category":"V7"
+    },
+    {
+        "category_name":"v7.5",
+        "category_image":"http://192.168.88.239:82/images/Achievement/PaladiumV7.5_logo.png",
+        "category_description":"Durant cette saison nous avons accomplis tous les objectifs que nous nous étions défini, nous attendons désormais la v8 avec impatience pour encore plus d'évement !",
+        "category":"V7.5"
+    },
+    {
+        "category_name":"v8",
+        "category_image":"https://cdn.discordapp.com/attachments/356392576787415040/956960712251539546/V8_soon.png",
+        "category_description":"Nous avons beaucoup d'espérance pour cette saison, et nous ésperons qu'elle soit une grande réussite pour nous ! Nous sommes déjà en train de réfléchir à plusieurs projets et nous comptons bien les accomplirs !",
+        "category":"V8"
+    }
+]

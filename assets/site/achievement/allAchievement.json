@@ -1,0 +1,45 @@
+[
+    {
+        "achievement_title":"Full Endium",
+        "achievement_description":"Le 19 décembre nous obtenons notre premier lingot d'endium, 1 mois après, le 20 janvier, nous avons tous les lingots nécessaire pour le créer entièrement. Nous avons donc réaliser notre Full Endium en plus ou moins 1 mois !",
+        "achievement_image":["http://192.168.88.239:82/images/Achievement/FullEndium_KuraahS7.5.png", "http://192.168.88.239:82/images/Achievement/Ec_KuraahS7.5.png"],
+        "achievement_video":[],
+        "category":["V7.5"]
+    },
+    {
+        "achievement_title":"Full PalaVert",
+        "achievement_description":"En cette v7.5, nous avons réussi a obtenir presque 2 full PalaVert, l'un des deux acheter ou farmer, et l'autre avec les box de fin de saison.",
+        "achievement_image":["http://192.168.88.239:82/images/Achievement/Ec_HerveS7.5.png", "http://192.168.88.239:82/images/Achievement/Ec_KuraahS7.5.png"],
+        "achievement_video":[],
+        "category":["V7.5"]
+    },
+    {
+        "achievement_title":"Don a FuzeIII v7",
+        "achievement_description":"La fin de la saison approche, nous étions a ce moment une dizaine dans la faction, malgré cela nous organison tout de même un don pour le youtube FuzeIII !",
+        "achievement_image":["http://192.168.88.239:82/images/Achievement/DonFuze_S7.png"],
+        "achievement_video":["https://www.youtube.com/embed/00EzVW6eKhE?start=790"],
+        "category":["V7"]
+    },
+    {
+        "achievement_title":"Notre maison de faction",
+        "achievement_description":"C'est la sortie des maisons de faction, et nous comptons en acheter une sur Mineria, malheuresement toute acheter nous nous dirigons alors sur Forestia. Malgré que notre maison de faction ne soit pas sur le serveur que l'on aurait voulu, nous avons réussi a en faire quelque chose de très beau !",
+        "achievement_image":["http://192.168.88.239:82/images/Achievement/Mdf_FakTurS7.5.png","http://192.168.88.239:82/images/Achievement/Mdf2_FakTurS7.5.png"],
+        "achievement_video":[],
+        "category":["V7.5"]
+    },
+    {
+        "achievement_title":"Base claim de 17x17",
+        "achievement_description":"Cette saison nous avions comme principale objectif avoir une énorme base claim. Et nous sommes ravi de vous dire qu'il a été réussi, nous avons contruit cette base claim 2mois après l'arrivée de la V7.5. Malheureusement piller quelque semaine après, nous somme tout de même fier de ce projet",
+        "achievement_image":["http://192.168.88.239:82/images/Achievement/Bc_FakTurS7.5.png"],
+        "achievement_video":[],
+        "category":["V7.5"]
+    },
+    {
+        "achievement_title":"Don a FuzeIII v7.5",
+        "achievement_description":"La fin de saison approchait pour la v7.5 et donc, comme pour la v7, nous avons fait un donc au youtubeur FuzeIII.",
+        "achievement_image":["http://192.168.88.239:82/images/Achievement/DonFuze_S7.5.png"],
+        "achievement_video":["https://www.youtube.com/embed/hjDXWtrEB8Y?start=140"],
+        "category":["v7.5"]
+
+    }
+]
